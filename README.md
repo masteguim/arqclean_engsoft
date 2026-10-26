@@ -1,5 +1,4 @@
-# Livraria Aurora — Clean Architecture
-
+# Livraria Aurora — arquitetura Clean 
 Aplicação de livraria desenvolvida em Python com interface gráfica Tkinter. O projeto foi refatorado da arquitetura multicamadas para Clean Architecture.
 
 ## Funcionalidades
